@@ -1,0 +1,101 @@
+body{
+  background-color: #0D192B;
+}
+.middle-container{
+     width:300px;
+     height:515px;
+     border-radius: 10px;
+     background-color: #14253D;
+     position: absolute;
+     top: 200px;
+     left: 600px;
+     text-align: center;
+}
+.cube-img{
+  border-radius: 10px;
+  margin-top: 25px;
+}
+h2{
+  color: white;
+  text-align: left;
+  margin-left: 20px;
+  font-family: sans-serif;
+}
+p{
+  color: #7CACD0;
+  text-align: left;
+  margin-left: 20px;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+.prism{
+  position: absolute;
+  left: 25px;
+  top: 415px;
+}
+.ETH{
+  color: #00FFF7;
+  position: absolute;
+  left: 30px;
+  top: 400px;
+}
+.time-img{
+  position: absolute;
+  left: 180px;
+  top: 415px;
+}
+.p-time{
+  position: absolute;
+  left: 185px;
+  top: 400px;
+}
+hr{
+ background-color: #2F415B;
+ height: 2px;
+ border:none;
+ position: relative;
+ top:70px;
+ width: 90%;
+}
+.pro-img{
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  left: 25px;
+  top: 470px;
+  border:2px solid;
+  border-color: white;
+  border-radius: 50%;
+}
+.p-creation{
+  position: absolute;
+  left: 60px;
+  top: 465px;
+  letter-spacing: 1px;
+}
+.graceson{
+  color: white;
+}
+.footer{
+  position: absolute;
+  bottom: -10px;;
+  left: 550px;
+}
+.end{
+  color: #25354D;
+  font-size: 15px;
+}
+.chal-by{
+  color: #7E9DC8;
+  text-decoration: none;
+}
+.chal-by:hover{
+  color: white;
+}
+.created-by{
+  color: #7E9DC8;
+  text-decoration: none;
+}
+.created-by:hover{
+  color: white;
+}
