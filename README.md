@@ -1,2 +1,2 @@
 # NFT-Preview-Card
-A challenge accepted from front end mentor
+A challenge accepted from frontend mentor.com
